@@ -1,0 +1,14 @@
+c:\Users\salah\OneDrive\documents\visual studio 2015\Projects\Data\Console\bin\Debug\Console.exe.config
+c:\Users\salah\OneDrive\documents\visual studio 2015\Projects\Data\Console\bin\Debug\Console.exe
+c:\Users\salah\OneDrive\documents\visual studio 2015\Projects\Data\Console\bin\Debug\Console.pdb
+c:\Users\salah\OneDrive\documents\visual studio 2015\Projects\Data\Console\bin\Debug\Data.dll
+c:\Users\salah\OneDrive\documents\visual studio 2015\Projects\Data\Console\bin\Debug\Domain.dll
+c:\Users\salah\OneDrive\documents\visual studio 2015\Projects\Data\Console\bin\Debug\EntityFramework.dll
+c:\Users\salah\OneDrive\documents\visual studio 2015\Projects\Data\Console\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\salah\OneDrive\documents\visual studio 2015\Projects\Data\Console\bin\Debug\Data.pdb
+c:\Users\salah\OneDrive\documents\visual studio 2015\Projects\Data\Console\bin\Debug\Domain.pdb
+c:\Users\salah\OneDrive\documents\visual studio 2015\Projects\Data\Console\bin\Debug\EntityFramework.xml
+c:\Users\salah\OneDrive\documents\visual studio 2015\Projects\Data\Console\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\salah\OneDrive\documents\visual studio 2015\Projects\Data\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+c:\Users\salah\OneDrive\documents\visual studio 2015\Projects\Data\Console\obj\Debug\Console.exe
+c:\Users\salah\OneDrive\documents\visual studio 2015\Projects\Data\Console\obj\Debug\Console.pdb
